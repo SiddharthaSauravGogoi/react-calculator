@@ -5,3 +5,5 @@ A simple calculator made using Reactjs. Does **not** follow BODMAS rule.
 Scientific calculations reset the stack.
 
 Theme option is available.
+
+Live @ https://siddharthasauravgogoi.github.io/react-calculator/
