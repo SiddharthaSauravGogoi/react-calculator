@@ -181,7 +181,10 @@ function App() {
         </div>
 
         <div className="calulator-wrapper result-display" style={{ backgroundColor: theme.backgroundColor, color: theme.color }}>
-          <div className="result">
+            <div className="stack-display">
+              {stack}
+            </div>
+            <div className="current-input">
             {displayResult}  {intermediateResult}
           </div>
         </div>
